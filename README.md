@@ -342,7 +342,7 @@ scylla-gtm-hunter/
 | [RapidAPI LinkedIn Data API](https://rapidapi.com) | LinkedIn profile enrichment |
 | [Claude (Anthropic)](https://anthropic.com) | AI lead scoring + personalized message generation |
 | [Google Sheets](https://sheets.google.com) | Data storage and campaign reporting (PoC) |
-| Claude AI | Used as coding assistant and prompt engineer throughout the build |
+
 
 ---
 
