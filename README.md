@@ -184,7 +184,7 @@ ScyllaDB as a database backend makes sense when:
 | **Building analytics on top of the data** | ScyllaDB integrates natively with data pipelines; Sheets requires manual exports |
 | **Needing 99.99% uptime** | ScyllaDB is multi-node by design; Sheets goes down with Google outages |
 
-**The "dogfooding" argument:** Using ScyllaDB as the backend for a ScyllaDB GTM tool is a compelling story in an interview — you're demonstrating the product's use case while building the tool. The SQL schema and migration path are documented in [`docs/IMPLEMENTATION_GUIDE.md`](docs/IMPLEMENTATION_GUIDE.md).
+ Using ScyllaDB as the backend for a ScyllaDB GTM tool can also be used as compelling story for targeting other GTM prospects — we are using this interview usecase to demonstrate the ramifications and connections we can do demonstrating the product's use case while building the tool. The SQL schema and migration path are documented in [`docs/IMPLEMENTATION_GUIDE.md`](docs/IMPLEMENTATION_GUIDE.md).
 
 ---
 
